@@ -1,2 +1,2 @@
 # FastAPI
-A code repo of FastAPI of CampusX youtube channel
+This is my project to study how Api works 
