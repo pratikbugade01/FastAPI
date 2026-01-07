@@ -1,6 +1,0 @@
-# Ignore everything
-*
-
-# Allow this file and the JSON we want to track
-!.gitignore
-!patients.json
